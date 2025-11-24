@@ -1,0 +1,4 @@
+PySide6==6.7.0
+Panda3D==1.10.13
+PyNite3D==0.4.0  # For structural analysis
+numpy==1.26.4

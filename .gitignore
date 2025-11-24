@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/steel-support-analyzer/FileContentIndex
+/.vs
+/src/gui/__pycache__
